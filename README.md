@@ -13,7 +13,7 @@ See also [free database services](https://github.com/DmitryScaletta/free-databas
 | render.com   | 15m  | No  | 750 hours      | 512MB |        | No   | 100GB         | Yes | Yes |
 | glitch.com   | 5m   | No  | 1000 hours     | 512MB | 200MB* | Yes  | 4000 req/hour | No  |     | 
 | fl0.com      | 24h  | No  | invite-only    | 256MB | 1GB?   | Yes  | 5GB           | Yes | Yes |
-| Koyeb.com    | 1h   | No  |                | 512MB | 2GB    | Yes  | 100GB         | Yes | Yes |
+| Koyeb.com    | 1h   | Yes |                | 512MB | 2GB    | Yes  | 100GB         | Yes | Yes |
 | WispByte.com | 30d  | No  | no https       | 512MB | 1GB    | Yes  | ?             | No* | Yes |
 
 \* See information below
