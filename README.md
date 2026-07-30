@@ -15,6 +15,8 @@ See also [free database services](https://github.com/DmitryScaletta/free-databas
 | fl0.com      | 24h  | No  | invite-only    | 256MB | 1GB?   | Yes  | 5GB           | Yes | Yes |
 | Koyeb.com    | 1h   | Yes |                | 512MB | 2GB    | Yes  | 100GB         | Yes | Yes |
 | WispByte.com | 30d  | No  | no https       | 512MB | 1GB    | Yes  | ?             | No* | Yes |
+| kuberns.com  | Yes  | No  | $10 (7d)       | 1GB   | 20GB   | Yes  | 5GB           | Yes | Yes |
+
 
 \* See information below
 
@@ -214,3 +216,14 @@ See also [free database services](https://github.com/DmitryScaletta/free-databas
 ]
 ```
 </details>
+
+## kuberns.com
+
+[Pricing](https://kuberns.com/pricing/) | [Deployment](https://kuberns.com/)
+
+* 7-day free trial with $10 in credits, no credit card required
+* AI-powered PaaS: connects to GitHub, auto-detects stack, and deploys automatically
+* One-click deployment from GitHub
+* Dockerfile support
+* No per-user pricing
+* Apps sleep after a period of inactivity
